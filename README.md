@@ -1,10 +1,12 @@
-# TVET-DASHBOARDTVET Dashboard
+# TVET Dashboard
+<p align="center">
+  <img src="Tvet/tvet-dashboard.png" alt="TVET Dashboard" width="100%">
+</p>
 📌 Project Overview
 This project presents an interactive TVET (Technical and Vocational Education and Training) Dashboard designed to provide a clear overview of applicants, registration status, and the skills selected by applicants.
 The dashboard provides a visual summary of the number of applicants, registered and unregistered applicants, and the distribution of applicants across Creative Media and Social Media skills.
 It is designed to support data-driven monitoring of applicant registration and skills participation.
 
- ![TVET Dashboard](tvetdashboard.png)
 
 📊 Key Performance Indicators
 The dashboard contains three main KPIs:
