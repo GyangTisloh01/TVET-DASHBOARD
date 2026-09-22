@@ -147,6 +147,8 @@ The TVET Dashboard provides a concise visual representation of applicant partici
 With 123 total applicants, 95 registered applicants, and 28 unregistered applicants, the dashboard provides an overview of registration progress while also showing how applicants are distributed between Creative Media and Social Media.
 The combination of KPI cards, charts, and interactive filters makes the dashboard useful for monitoring applicant registration, understanding skill preferences, and identifying areas that may require further attention.
 This project demonstrates how applicant data can be transformed into an interactive Business Intelligence dashboard that communicates information clearly and supports data-driven decision-making.
+
+
 👨‍💻 Author
 Tis Gyang
 TVET Applicant Analysis Dashboard
