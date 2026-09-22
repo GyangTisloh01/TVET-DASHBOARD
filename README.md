@@ -3,8 +3,8 @@
 This project presents an interactive TVET (Technical and Vocational Education and Training) Dashboard designed to provide a clear overview of applicants, registration status, and the skills selected by applicants.
 The dashboard provides a visual summary of the number of applicants, registered and unregistered applicants, and the distribution of applicants across Creative Media and Social Media skills.
 It is designed to support data-driven monitoring of applicant registration and skills participation.
-🖼️ Dashboard Preview
- ![TVET Dashboard](assets/tvet-dashboard.png)
+
+ ![TVET Dashboard](tvet-dashboard.png)
 
 📊 Key Performance Indicators
 The dashboard contains three main KPIs:
