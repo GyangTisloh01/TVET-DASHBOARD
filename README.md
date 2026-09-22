@@ -1,6 +1,6 @@
 # TVET Dashboard
 <p align="center">
-  <img src="tvet-dashboard.png" alt="TVET Dashboard" width="100%">
+  <img src="tvet-dashboard.png" width="100%">
 </p>
 📌 Project Overview
 This project presents an interactive TVET (Technical and Vocational Education and Training) Dashboard designed to provide a clear overview of applicants, registration status, and the skills selected by applicants.
